@@ -4,4 +4,4 @@ This project was created to expand my knowledge of quantum computing, artificial
 The experiments and concepts here are not likely to be idiomatic; I wouldn't use this as a production-quality reference, but rather a stepping stone for learning. I am documenting my learning adventure here and will be sharing interesting and useful pieces of information as I discover them.
 
 # Dependencies
-The required dependencies are in `requirements.txt`, and can be installed (ideally within a virtual environment) with `pip install -r requirements.txt`. For an example of creating a virtual environment with the `virtualenv` tool, reference https://gist.github.com/coopbri/6b8db94c6c3adb5b902362cd803184cc.
+The required dependencies are in `requirements.txt`, and can be installed (ideally within a virtual environment) with `pip install -r requirements.txt`. For an example of creating a virtual environment with the `virtualenv` tool, reference ![this example script](https://gist.github.com/coopbri/6b8db94c6c3adb5b902362cd803184cc).
