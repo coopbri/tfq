@@ -59,7 +59,7 @@ six==1.14.0
 sortedcontainers==2.1.0
 sympy==1.4
 tensorboard==2.1.1
-tensorflow==2.4.0
+tensorflow==2.5.0
 tensorflow-estimator==2.1.0
 tensorflow-quantum==0.2.0
 termcolor==1.1.0
